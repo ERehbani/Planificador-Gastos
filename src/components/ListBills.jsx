@@ -5,7 +5,7 @@ import Bill from './Bill';
 const ListBills = ({bills, setModal, setBill, filter, billsFilter}) => {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Gastinhos</Text>
+      <Text style={styles.title}>Gastos</Text>
 
       {filter
         ? billsFilter.map(bill => (
