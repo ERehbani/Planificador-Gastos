@@ -1,16 +1,19 @@
 # Planificador de Gastos en React Native 
- Aplicacion para organizar gastos definiendo un presupuesto inicial el cual se irá midiendo a través de los gastos que se vayan agregando
- <img src='./img/599shots_so (1).jpg'> </img>
+ 1. Aplicacion para organizar gastos definiendo un presupuesto inicial el cual se irá midiendo a través de los gastos que se vayan agregando
+ <div align="center">
+  <img src='./img/599shots_so (1).jpg' width="700px"> </img>
+ </div>
 
- Se agrega un nuevo gasto a través de un formulario de tipo Modal en el que se agrega "Nombre" del gasto, "Cantidad" y de que "Categoría" es este gasto para luego hacer un filtro de los mismos
- <img src='./img/478shots_so.jpg'> </img>
+ 2. Se agrega un nuevo gasto a través de un formulario de tipo Modal en el que se agrega "Nombre" del gasto, "Cantidad" y de que "Categoría" es este gasto para luego hacer un filtro de los mismos
+<div align="center">
+  <img src='./img/478shots_so.jpg' width="700px"> </img>
+</div>
 
- Los gastos realizados se agrupan en la zona debajo del resumen total y se identifican mediante íconos dependiendo de la categoría del gasto, los mismos pueden ser actualizados tanto en su nombre, precio y su categoría y estos pueden ser filtrados mediante un input de categorías
- <img src='./img/279shots_so.jpg'> </img>
+3. Los gastos realizados se agrupan en la zona debajo del resumen total y se identifican mediante íconos dependiendo de la categoría del gasto, los mismos pueden ser actualizados tanto en su nombre, precio y su categoría y estos pueden ser filtrados mediante un input de categorías
+<div align="center">
+  <img src='./img/279shots_so.jpg' width="700px"> </img>
+</div>
 
-
-
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
 
